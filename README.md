@@ -1,7 +1,7 @@
 ### Hi! I am, Marcela Silva 🏋️‍♀️👩‍💻 🤗 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mss_marcela)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/marcela-silva-76aa36215/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-silva-76aa36215/)
 
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelamtm&show_icons=true&theme=moltack)
 
