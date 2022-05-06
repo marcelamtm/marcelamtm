@@ -5,7 +5,7 @@
 
 ![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelamtm&show_icons=true&theme=moltack)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelamtm&layout=compact)](https://github.com/marcelamtm/github-readme-stats)
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelamtm&layout=compact&langs_count=7&theme=moltack&cache_seconds=1800"/>
 
 ### Tecnologias que estou aprendendo:
 
