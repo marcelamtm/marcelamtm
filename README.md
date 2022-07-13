@@ -1,4 +1,4 @@
-### Hi! I am, Marcela Silva 🏋️‍♀️👩‍💻 🤗 
+### Hi! I am, Marcela Silva 👋🤪
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mss_marcela)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcela-silva-76aa36215/)
@@ -20,7 +20,7 @@
 <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 <br>
-Apaixonada por musculação, filmes e música. Iniciante na área de TI, em busca de novos desafios. 
+Apaixonada por 🏋️‍musculação, 🎬filmes, 🎶 música, 📚livros e ✍️escrita. Iniciante na área de 👩‍💻TI, em busca de novos desafios. 
 
 
 
